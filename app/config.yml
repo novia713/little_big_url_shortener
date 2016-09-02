@@ -1,0 +1,12 @@
+authentication: 0
+debug: 1
+cache:
+    active:   0
+    path:     '/cache/'
+db:
+    driver: pdo_mysql
+    host:   localhost
+    dbname: leash
+    user:   root
+    password: panda
+    charset:  utf8
