@@ -6,7 +6,7 @@
 ###The rest API provides the following endpoints###
 - [GET]  /0923sdf0s0 → redirects to the original URL
 - [GET]  /view/0923sdf0s0 → provides stats info about the short URL
-- [POST] /create/http://google.es → creates the shor url 
+- [POST] /create/http://google.es → creates the short url 
 
 ###The HTML interface ###
 Provides a text input for providing the original URL and a button for creating the short URL.
